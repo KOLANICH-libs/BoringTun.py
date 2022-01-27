@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: * **/*
+Copyright: 2021 KOLANICH
+License: Unlicense
+
+Files: BoringTUN/ctypes.py libboringtun.so
+Copyright: 2019 Cloudflare, Inc. All rights reserved.
+License: BSD-3-Clause

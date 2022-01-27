@@ -1,0 +1,13 @@
+/libboringtun.so
+
+__pycache__
+*.pyc
+*.pyo
+/*.egg-info
+*.srctrlbm
+*.srctrldb
+build
+dist
+.eggs
+monkeytype.sqlite3
+/.ipynb_checkpoints
